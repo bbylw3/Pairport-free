@@ -54,7 +54,6 @@ NodeHub 是一个优雅的单页面应用，采用现代化设计风格，为 [A
 ## 致谢
 
 - 节点来源：[Airport Free](https://github.com/xiaoji235/airport-free)
-- Telegram频道：[@xiaoji_airport](https://t.me/xiaoji_airport)
 
 ## 免责声明
 

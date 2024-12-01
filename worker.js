@@ -313,7 +313,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
         </main>
 
         <footer>
-            <p>数据来源：<a href="https://github.com/xiaoji235/airport-free" target="_blank">Airport Free</a> | <a href="https://t.me/xiaoji_airport" target="_blank">Telegram</a></p>
+            <p>数据来源：<a href="https://github.com/xiaoji235/airport-free" target="_blank">Airport Free</a></p>
         </footer>
     </div>
 
